@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'yoon-log',
+    title: 'Yoon-log',
     description: 'welcome to yoon-log!',
     theme: 'light' // ['light', 'dark', 'auto']
   },
