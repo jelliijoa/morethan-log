@@ -7,13 +7,13 @@ const CONFIG = {
     bio: 'Develop Everyday-!',
     email: 'vinblanx@gmail.com',
     linkedin: '',
-    github: 'https://github.com/jelliijoa',
-    instagram: '@myoonzii',
+    github: 'jelliijoa',
+    instagram: 'myoonzii',
   },
   projects: [
     {
       name: 'Untilled',
-      href: 'https://untilled.web.app'
+      href: ''
     }
   ],
   // blog setting (required)
